@@ -18,4 +18,5 @@ int main(void)
     printf("이름: 조석래\n");
     printf("힉반: 2171269\n");
     printf("----------------\n");
+    
 }
